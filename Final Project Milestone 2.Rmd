@@ -1,0 +1,14 @@
+---
+title: "Final Project Milestone 2"
+author: "Emily Ni"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+There are many projects from past years that interested me. The first project I will be discussing is by Mengxi Tan who created a US Immigration Explorer. The project involved extensive data gathering from the US Census Bureau and Homeland Security. I explored her website which included information on where the immigrants were coming from, the channel by which they were admitted, and how well they were fitting into US society after immigrating. A pro of her project was the visuals; the graphs provided valuable insights to the questions she wanted to answer. Her maps included a unique feature that categorized the countries of the world by the country the US immigrants came from between 2007 and 2017. All other graphs were labeled well and color coded nicely. On the second tab, A Closer Look, I found the information to be presented very well. The data for each country was displayed in a line graph filled with color and the pie charts displayed data of how well immigrants from different countries were fitting into society. I found the information presented to be extremely interesting and well organized. I considered a con of the project to be the spacing between the graphs in both the first and second tabs. Some graphs were closer together than others, so I did not realize that I could scroll down more to see more of the graphs at first.
+
+The second final project that I enjoyed looking over was one by Sydney Sorkin. For the project, data was collected from twitter accounts of different NCAA sports to determine whether or not there is a difference in how the NCAA promotes their Men’s versus Women’s teams. I saw many outstanding parts of this project. First of all, there is so much attention to detail throughout the website. Under the third tab, Explore Tweets, the tweet search function provides a coherent list of all relevant tweets along with the date the tweet was posted and amount of retweets and likes. Another distinguishing pro is the way the data is organized in this project. The website shows both the tweet distribution and the content of the tweets. These are both valuable datasets to analyze and understand in order to answer the question of what are the differences in how the NCAA reports Men's and Women's teams. The data collected was very relevant and Sydney was able to display the data in an organized fashion. A con of the project was in the tweet distribution graph. It seems like Sydney wanted to show the tweet frequency and where most of the tweets were concentrated. The visual could be made in a way that is easier to understand. Additionally, the visual could have more clearly reflected how the men and women teams were reported.
